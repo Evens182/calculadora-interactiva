@@ -1,0 +1,45 @@
+.contenedor-boton{
+    height: 83px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 25px;
+    border: 2px solid whitesmoke;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.contenedor-boton:hover{  
+    background-color: rgb(177, 13, 171);
+    color: whitesmoke;
+}
+
+.operador{
+    background-color: rgb(16, 50, 5);
+}
+
+.operador:hover{  
+    background-color: rgb(17, 63, 190);
+    color: whitesmoke;
+}
+
+.igual{
+    background-color: rgb(150, 138, 7);
+    font-size: 5em;
+}
+
+.atras{
+    background-color: rgb(165, 71, 24);
+    font-size: 1.5em;
+}
+
+.atras2{
+    background-color: rgb(165, 71, 24);
+    font-size: 1.5em;
+}
